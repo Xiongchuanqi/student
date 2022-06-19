@@ -8,5 +8,6 @@ public class studentTest {
         System.out.println("asdsad");
         System.out.println("hello git3");
         System.out.println("hello 4");
+        System.out.println("master test");
     }
 }
