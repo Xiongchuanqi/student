@@ -1,7 +1,9 @@
 package com.example.student;
-
+import com.example.student.bean.Student;
 public class studentTest {
     public static void main(String[] args) {
+        Student s=new Student();
+        System.out.println(s);
         System.out.println("helloGit");
         System.out.println("xiong");
         System.out.println("------");

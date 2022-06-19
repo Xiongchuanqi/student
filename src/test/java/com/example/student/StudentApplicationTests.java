@@ -19,7 +19,6 @@ class StudentApplicationTests {
 //    DataSource dataSource;
 
     @Autowired
-
     StudentMapper studentMapper;
     @Test
     void contextLoads() throws SQLException {
